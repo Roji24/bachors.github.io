@@ -1,0 +1,28 @@
+<html> 
+ <head>
+   <title>this is my profile</title>
+   </head>
+    <body>
+
+     <marquee behavior="scroll" direction="left"bgcolor="#00FF00"
+      scrollamount="7" loop="25">welcome</marquee>
+      <marquee behavior="scroll" direction="right" bgcolor="#00FF00"
+      scrollamount="7" loop="25">stimed nusa palapa</marquee>
+     <p>
+     <img src="tmn.jpg "alt="..." height="130"width="150" align="left">
+     <strong style="color:red"></strong>
+     </p>
+       <left>
+       <p>
+       <font size = 4 face="verdana" color=”green” > My Profil</font><br>
+       Nim     : 01010013<br>
+       Nama    : Andi Hasmiati<br>
+       Alamat  : Jln.M.jufri<br>
+       Jurusan : Sistem Informasi<br>
+       No.hp   : 085399360615<br>
+       E-mail  : <A HREF=mailto:andihasmiati@gmail.com>andihasmiati@gmail.com</A><br>
+       </p>
+       </left>
+
+    </body>
+</html>
